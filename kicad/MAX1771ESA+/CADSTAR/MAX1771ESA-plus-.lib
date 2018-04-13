@@ -1,0 +1,18 @@
+.MAX1771ESA-plus- :1 ;High-Efficiency Step-Up DC-DC Controller
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="EXT" 2="V+" 3="FB" 4="SHDN" 5="REF" 6="AGND" 7="GND" 8="CS"
+*MXP 8
+*DFN MAX1771ESA-plus-
+~!Manufacturer_Name (Maxim Integrated)
+~!Manufacturer_Part_Number (MAX1771ESA+)
+~!RS Part Number (7328800P)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/7328800P)
+~!Arrow Part Number (MAX1771ESA+)
+~!Link Arrow Price/Stock (http://uk.rs-online.com/web/p/products/7328800P)
+~!Link Datasheet (http://datasheets.maximintegrated.com/en/ds/MAX1771.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX1771ESA+)
+MAX1771ESA-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!I 7.1!G 6.1!G 5.1!I 

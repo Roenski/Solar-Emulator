@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX1771ESA+
+D High-Efficiency Step-Up DC-DC Controller
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX1771.pdf
+$ENDCMP
+#
+#End Doc Library
