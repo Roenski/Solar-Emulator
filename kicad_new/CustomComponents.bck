@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMR33620
+D Buck Converter, 3.8V-36V in, 1V-24V out
+F http://www.ti.com/lit/ds/symlink/lmr33620.pdf
+$ENDCMP
+#
+#End Doc Library
