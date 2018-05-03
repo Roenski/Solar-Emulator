@@ -859,11 +859,11 @@ L = (Vin-Vout)/(fsw*K*Imax) * (Vout/Vin)
 Text Notes 2600 3150 0    79   ~ 0
 Output: 9V-19V
 Text Notes 6450 1700 0    60   ~ 0
-22nF each
+22uF each
 Text Notes 6400 3850 0    60   ~ 0
-22nF each
+22uF each
 Text Notes 6500 6100 0    60   ~ 0
-22nF each
+22uF each
 $Comp
 L LMR33620 U?
 U 1 1 5AED467B
