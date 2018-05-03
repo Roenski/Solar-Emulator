@@ -1,4 +1,4 @@
-update=26-Apr-18 21:06:56
+update=03/05/2018 19:22:31
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=CustomComponents
+LibName34=C:/Users/Aleksi/Documents/GitHub/Solar-Emulator/kicad/INA210/ina210
