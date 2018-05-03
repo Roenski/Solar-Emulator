@@ -296,4 +296,6 @@ Wire Wire Line
 	8225 4200 7975 4200
 Text Label 7975 4200 2    60   ~ 0
 LDAC
+Text Notes 8575 3350 0    60   ~ 0
+For Nucleo-F334R8
 $EndSCHEMATC
